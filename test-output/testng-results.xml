@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-08T13:51:14 ICT" name="Default suite" finished-at="2020-08-08T13:51:29 ICT" duration-ms="15411">
+    <groups>
+    </groups>
+    <test started-at="2020-08-08T13:51:14 ICT" name="Default test" finished-at="2020-08-08T13:51:29 ICT" duration-ms="15411">
+      <class name="herokuapp.DataTables">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:herokuapp.DataTables@33afa13b]" started-at="2020-08-08T13:51:14 ICT" name="Setup" finished-at="2020-08-08T13:51:28 ICT" duration-ms="14456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="dataTableTest1()[pri:0, instance:herokuapp.DataTables@33afa13b]" started-at="2020-08-08T13:51:28 ICT" name="dataTableTest1" finished-at="2020-08-08T13:51:28 ICT" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTableTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:herokuapp.DataTables@33afa13b]" started-at="2020-08-08T13:51:28 ICT" name="tearDown" finished-at="2020-08-08T13:51:29 ICT" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- herokuapp.DataTables -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
